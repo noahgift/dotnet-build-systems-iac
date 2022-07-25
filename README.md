@@ -6,7 +6,7 @@ A repository that explains key concepts with dotnet build systems and IAC
 
 ### CDK
 
-* Example C# CDK
+* [Example C# CDK](https://cdkworkshop.com/40-dotnet.html)
 
 ### Terraform
 
